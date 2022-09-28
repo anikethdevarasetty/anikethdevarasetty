@@ -1,6 +1,6 @@
-Hi I’m Aniketh Devarasetty, a sophomore in Electrical and Computer Engineering at The University of Texas at Austin, and an aspiring robotics engineer 🤖.
+Hi I’m Aniketh Devarasetty, a junior in Electrical and Computer Engineering at The University of Texas at Austin, and an aspiring robotics and software engineer.
 
-- 👀 I’m interested in robotics, space, and any personal projects that spark my interests and passions.
+- 👀 I’m interested in software development, robotics, space, and any personal projects that spark my interests and passions.
 - 📫 How to reach me: anikethdevarasetty@gmail.com & www.linkedin.com/in/adevarasetty
 - ⚡ Fun fact: I enjoy watching movies/TV & listening to music in any language, bike riding, running, and reading mystery thriller novels
 
